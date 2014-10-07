@@ -12,6 +12,7 @@ gem 'spring',        group: :development
 gem 'devise'
 gem 'pundit'
 gem 'bootstrap-sass'
+gem 'devise_invitable', '~> 1.3.4'
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_21]
