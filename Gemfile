@@ -35,5 +35,3 @@ group :test do
   gem 'launchy'
   gem 'selenium-webdriver'
 end
-
-gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
